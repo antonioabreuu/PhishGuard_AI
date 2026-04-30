@@ -1,0 +1,16 @@
+# Python (Arquivos temporários de execução)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ambientes Virtuais (Pasta onde ficam as bibliotecas instaladas localmente)
+.venv/
+venv/
+env/
+
+# Configurações de ambiente e segredos
+.env
+.streamlit/
+
+# Outros
+.DS_Store
